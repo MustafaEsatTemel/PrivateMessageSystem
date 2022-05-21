@@ -1,0 +1,6 @@
+name: PrivateMessageSystem
+version: '${project.version}'
+main: tr.mustafaesattemel.privatemessagesystem.PrivateMessageSystem
+commands:
+  message:
+  reply:
